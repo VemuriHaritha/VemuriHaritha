@@ -8,4 +8,5 @@
 VemuriHaritha/VemuriHaritha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Holopin board](https://holopin.io/api/user/board?user=vemuriharitha)](https://holopin.io/@vemuriharitha)
+![Badge 1](https://assets.holopin.io/hf2025levels/lvl0-human.webp)
+![Badge 2](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)
